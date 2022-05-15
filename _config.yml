@@ -1,5 +1,6 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 permalink: /404.html
 title: Test Site
 description: This is just a test site
 site.lang: en-GB
+remote_theme: brianmaierjr/uni
