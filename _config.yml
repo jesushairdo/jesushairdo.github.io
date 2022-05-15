@@ -4,3 +4,13 @@ title: Test Site
 description: This is just a test site
 site.lang: en-GB
 remote_theme: benbalter/retlab
+footer_pages:
+  - accomodation.md
+  - travel.md
+nav_pages:
+  - index.html
+  - about.md
+  - contact.md
+  - accomodation.md
+  - travel.md
+  - venue.md
